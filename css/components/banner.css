@@ -1,0 +1,14 @@
+.banner {
+    background-image: url(../../images/background.jpg);
+    background-size: cover; 
+    background-position: center; 
+}
+.banner h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.banner p {
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
+}
